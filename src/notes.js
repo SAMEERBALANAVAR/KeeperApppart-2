@@ -13,14 +13,20 @@ const notes = [
 
   {
     key: 3,
-    title: "Development",
-    content: "Varsha from development"
+    title: "Testing",
+    content: "Pallavi from development"
   },
 
   {
     key: 4,
     title: "Testing",
-    content: "Vignesh from Testing"
+    content: "Vignesh from development"
+  },
+
+  {
+    key: 5,
+    title: "Embeded",
+    content: "Rahul from Testing"
   }
 ];
 
